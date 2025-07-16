@@ -45,12 +45,12 @@ function initButtonHandlers() {
 
 // Google Play store handler
 function handleGooglePlay() {
-    window.open("https://play.google.com/store", "_blank", "noopener,noreferrer");
+    window.open("https://play.google.com/store/apps/details?id=com.bisame.bisame", "_blank", "noopener,noreferrer");
 }
 
 // App Store handler
 function handleAppStore() {
-    window.open("https://apps.apple.com", "_blank", "noopener,noreferrer");
+    window.open("https://apps.apple.com/us/app/bisame/id6459306016", "_blank", "noopener,noreferrer");
 }
 
 // Add enhanced hover effects
